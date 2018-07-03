@@ -25,12 +25,21 @@ The Sims 3 Island Paradise: แปลไปแล้ว 70%
 The Sims 3 Into the Future: แปลไปแล้ว 75% 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
+วิธีลง ภาษาไทย
+--
+1.ไห้นำไฟล์ Mod ภาษาไทย ที่เราโหลดไปมาไว้ไน 
+-C:/Program Files/Electronic Arts/The Sims 3/Mods/Packages
+-( Folder Mods สร้างเองเลย รวมถึง Folder Packages ด้วย )
+2.ไห้นำไฟล์ Resource ไปวางไว้ไนC:/Program Files/Electronic Arts/The Sims 3/Mods
+3.เสร็จสิ้นการลงPackage
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 # TS3TH
 How to install thesims3 mod thai
 Setup Folders & Files
 
-==
+
 Game install files should be located here: (by default)
 --
 C:\Program Files (x86)\Origin Games\The Sims 4 (64-bit - Windows)
@@ -46,7 +55,6 @@ C:\Program Files\Electronic Arts\The Sims 4 (32-bit - Windows)
 
 
 --
-
 Go to The Sims 3 Folder in My Documents: NOT in Program Files!
 
 Windows XP: C:\Documents and Settings\<user name>\My Documents\Electronic Arts\The Sims 3\
