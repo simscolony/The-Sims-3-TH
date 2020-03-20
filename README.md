@@ -4,7 +4,7 @@
 | ------------- | ------------- |
 | OLD font | [Sims 3 MOD thai OLD font](https://github.com/simcolony/TS3TH/releases/download/TS3TH-SB/Thai.Sims.3.Simcolony.DB.package)|
 | DB font  | [Sims 3 MOD thai DB font](https://github.com/simcolony/TS3TH/releases/download/TS3TH-SB/Thai.Sims.3.Simcolony.DB.package) |
-| FrameworkSetup | [esource file mods](https://github.com/simcolony/TS3TH/releases/download/TS3TH/Resource.cfg) |
+| FrameworkSetup | [Resource file mods](https://github.com/simcolony/TS3TH/releases/download/TS3TH/Resource.cfg) |
 
 # Download the ready-made FrameworkSetup.zip 
 ## http://skuld.modthesims.info/Resource.cfg
