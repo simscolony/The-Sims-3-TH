@@ -1,30 +1,20 @@
-# อัตราการแปล
-The Sims 3 ภาคหลัก : แปลไปแล้ว 75%
-
-The Sims 3 World Adventure: แปลไปแล้ว 30%
-
-The Sims 3 Ambition: แปลไปแล้ว 60%
-
-The Sims 3 Late night: แปลไปแล้ว 57%
-
-The Sims 3 Generations: แปลไปแล้ว 60%
-
-The Sims 3 Pets: แปลไปแล้ว 65%
-
-The Sims 3 Showtime: แปลไปแล้ว 45%
-
-The Sims 3 Supernatural: แปลไปแล้ว 70%
-
-The Sims 3 Seasons: แปลไปแล้ว 85%
-
-The Sims 3 University: แปลไปแล้ว 95%
-
-The Sims 3 Island Paradise: แปลไปแล้ว 70%
-
-The Sims 3 Into the Future: แปลไปแล้ว 75%
+| Store  | Download |
+| ------------- | ------------- |
+|  Steam Store | [Subnautica-Thailand-Steam](https://github.com/simcolony/Subnautica-Thailand-Community/releases/download/SBTH_08/Subnautica.Thailand.Bata.0.8.-.Steam.Version.exe) |
+| Epic Store  | [Subnautica-Thailand-Epic](https://github.com/simcolony/Subnautica-Thailand-Community/releases/download/SBTH_08/Subnautica.Thailand.Bata.0.8.-.Epic.Version.exe) |
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 # วิธีลง ภาษาไทย
+
+| Store  | Download |
+| ------------- | ------------- |
+| OLD font | [Sims 3 MOD thai OLD font](https://github.com/simcolony/TS3TH/releases/download/TS3TH-SB/Thai.Sims.3.Simcolony.DB.package) |
+| DB font  | [Sims 3 MOD thai DB font](https://github.com/simcolony/TS3TH/releases/download/TS3TH-SB/Thai.Sims.3.Simcolony.DB.package) |
+
+# Download the ready-made FrameworkSetup.zip 
+## http://skuld.modthesims.info/Resource.cfg
+## http://chii.modthesims.info/FrameworkSetup.zip
+## http://nraas.wikispaces.com/file/detail/Resource.zip
 
 1.ไห้นำไฟล์ Mod ภาษาไทย ที่เราโหลดไปมาไว้ไน 
 
@@ -35,9 +25,31 @@ The Sims 3 Into the Future: แปลไปแล้ว 75%
 2.ไห้นำไฟล์ Resource ไปวางไว้ไนC:/Program Files/Electronic Arts/The Sims 3/Mods
 
 3.เสร็จสิ้นการลงPackage
+------------------------------------------------------
+
+his file contains everything you need to set up your game for custom content. Right-click on the download link below and choose 
+
+"Save link as." 
+
+Save it into your Documents\Electronic Arts\The Sims 3\ folder (the same folder you just opened).
+
+Inside the Documents\Electronic Arts\The Sims 3\Mods folder
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
+# อัตราการแปล
+The Sims 3 ภาคหลัก : แปลไปแล้ว 75%
+The Sims 3 World Adventure: แปลไปแล้ว 30%
+The Sims 3 Ambition: แปลไปแล้ว 60%
+The Sims 3 Late night: แปลไปแล้ว 57%
+The Sims 3 Generations: แปลไปแล้ว 60%
+The Sims 3 Pets: แปลไปแล้ว 65%
+The Sims 3 Showtime: แปลไปแล้ว 45%
+The Sims 3 Supernatural: แปลไปแล้ว 70%
+The Sims 3 Seasons: แปลไปแล้ว 85%
+The Sims 3 University: แปลไปแล้ว 95%
+The Sims 3 Island Paradise: แปลไปแล้ว 70%
+The Sims 3 Into the Future: แปลไปแล้ว 75%
++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # TS3TH
 How to install thesims3 mod thai
 Setup Folders & Files
@@ -55,8 +67,6 @@ C:\Program Files\Origin Games\The Sims 3 (32-bit - Windows)
 # The Original Disc Version - pre 2012 version
 C:\Program Files (x86)\Electronic Arts\The Sims 3 (64-bit - Windows)
 C:\Program Files\Electronic Arts\The Sims 4 (32-bit - Windows)
-
-
 --------------------------------------------------------------------
 # Go to The Sims 3 Folder in My Documents: NOT in Program Files!
 
@@ -66,17 +76,4 @@ C:\Program Files\Electronic Arts\The Sims 4 (32-bit - Windows)
 ### C:\Users\<username>\Documents\Electronic Arts\The Sims 3\
 ## Mac OS: 
 ### /Users/<username>/Documents/Electronic Arts/The Sims 3/
-
 -----------------------------------------------------------------
-
-# Download the ready-made FrameworkSetup.zip 
-## http://chii.modthesims.info/FrameworkSetup.zip
-## http://nraas.wikispaces.com/file/detail/Resource.zip
-
-his file contains everything you need to set up your game for custom content. Right-click on the download link below and choose 
-
-"Save link as." 
-
-Save it into your Documents\Electronic Arts\The Sims 3\ folder (the same folder you just opened).
-
-Inside the Documents\Electronic Arts\The Sims 3\Mods folder
