@@ -1,8 +1,3 @@
-| Store  | Download |
-| ------------- | ------------- |
-|  Steam Store | [Subnautica-Thailand-Steam](https://github.com/simcolony/Subnautica-Thailand-Community/releases/download/SBTH_08/Subnautica.Thailand.Bata.0.8.-.Steam.Version.exe) |
-| Epic Store  | [Subnautica-Thailand-Epic](https://github.com/simcolony/Subnautica-Thailand-Community/releases/download/SBTH_08/Subnautica.Thailand.Bata.0.8.-.Epic.Version.exe) |
-
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 # วิธีลง ภาษาไทย
 
@@ -10,6 +5,8 @@
 | ------------- | ------------- |
 | OLD font | [Sims 3 MOD thai OLD font](https://github.com/simcolony/TS3TH/releases/download/TS3TH-SB/Thai.Sims.3.Simcolony.DB.package) |
 | DB font  | [Sims 3 MOD thai DB font](https://github.com/simcolony/TS3TH/releases/download/TS3TH-SB/Thai.Sims.3.Simcolony.DB.package) |
+|
+| FrameworkSetup | [esource file mods](https://github.com/simcolony/TS3TH/releases/download/TS3TH/Resource.cfg) |
 
 # Download the ready-made FrameworkSetup.zip 
 ## http://skuld.modthesims.info/Resource.cfg
