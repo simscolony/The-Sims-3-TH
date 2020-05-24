@@ -1,10 +1,12 @@
+# ดาวโหลด MOD แปลไทย The sims 3
 
-# ดาวโหลด MOD แปลไทย
 | Store  | Download |
 | ------------- | ------------- |
 | OLD font | [Sims 3 MOD thai OLD font](https://github.com/simcolony/TS3TH/releases/download/TS3TH-SB/Thai.Sims.3.Simcolony.DB.package)|
 | DB font  | [Sims 3 MOD thai DB font](https://github.com/simcolony/TS3TH/releases/download/TS3TH-SB/Thai.Sims.3.Simcolony.DB.package) |
 | FrameworkSetup | [Resource file mods](https://github.com/simcolony/TS3TH/releases/download/TS3TH/Resource.cfg) |
+
+# ซื้อเกม [The sims 3](https://www.cdkeys.com/pc/games/the-sims-3-pc-mac-cd-key-origin?mw_aref=simscolony)
 
 # Download the ready-made FrameworkSetup.zip 
 ## http://skuld.modthesims.info/Resource.cfg
