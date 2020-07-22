@@ -14,22 +14,15 @@
 ## http://nraas.wikispaces.com/file/detail/Resource.zip
 
 1.ไห้นำไฟล์ Mod ภาษาไทย ที่เราโหลดไปมาไว้ไน 
-
 -C:/Program Files/Electronic Arts/The Sims 3/Mods/Packages
-
 -( Folder Mods สร้างเองเลย รวมถึง Folder Packages ด้วย )
-
 2.ไห้นำไฟล์ Resource ไปวางไว้ไนC:/Program Files/Electronic Arts/The Sims 3/Mods
-
 3.เสร็จสิ้นการลงPackage
-------------------------------------------------------
+
 
 his file contains everything you need to set up your game for custom content. Right-click on the download link below and choose 
-
 "Save link as." 
-
 Save it into your Documents\Electronic Arts\The Sims 3\ folder (the same folder you just opened).
-
 Inside the Documents\Electronic Arts\The Sims 3\Mods folder
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -51,7 +44,7 @@ The Sims 3 Into the Future: แปลไปแล้ว 75%
 How to install thesims3 mod thai
 Setup Folders & Files
 
-
++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # Game install files should be located here: (by default)
 --
 C:\Program Files (x86)\Origin Games\The Sims 4 (64-bit - Windows)
