@@ -14,6 +14,7 @@
   (หากไม่พบให้ทำการสร้าง Folder ชื่อ Mods >ข้างใน MOD สร้าง Folder ชื่อ Packages ด้วย )
 
 2.ไห้นำไฟล์ Resource ไปวางไว้ไนC:/Program Files/Electronic Arts/The Sims 3/Mods
+
 3.นำไฟล์ package ไปใส่ เข้าเกมได้
 
 
@@ -26,16 +27,27 @@ Inside the Documents\Electronic Arts\The Sims 3\Mods folder
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 # อัตราการแปล
 1.The Sims 3 ภาคหลัก : แปลไปแล้ว 75%
-2. The Sims 3 World Adventure: แปลไปแล้ว 30%
+
+2..The Sims 3 World Adventure: แปลไปแล้ว 30%
+ 
 3.The Sims 3 Ambition: แปลไปแล้ว 60%
+
 4.The Sims 3 Late night: แปลไปแล้ว 57%
-5. The Sims 3 Generations: แปลไปแล้ว 60%
+
+5.The Sims 3 Generations: แปลไปแล้ว 60%
+ 
 6.The Sims 3 Pets: แปลไปแล้ว 65%
+
 7.The Sims 3 Showtime: แปลไปแล้ว 45%
+
 8.The Sims 3 Supernatural: แปลไปแล้ว 70%
+
 9.The Sims 3 Seasons: แปลไปแล้ว 85%
+
 10.The Sims 3 University: แปลไปแล้ว 95%
+
 11.The Sims 3 Island Paradise: แปลไปแล้ว 70%
+
 12.The Sims 3 Into the Future: แปลไปแล้ว 75%
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
