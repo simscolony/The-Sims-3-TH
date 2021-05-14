@@ -8,11 +8,6 @@
 
 # ซื้อเกม [The sims 3](https://www.cdkeys.com/pc/games/the-sims-3-pc-mac-cd-key-origin?mw_aref=simscolony)
 
-# Download the ready-made FrameworkSetup.zip 
-## http://skuld.modthesims.info/Resource.cfg
-## http://chii.modthesims.info/FrameworkSetup.zip
-## http://nraas.wikispaces.com/file/detail/Resource.zip
-
 1.ไห้นำไฟล์ Mod ภาษาไทย ที่เราโหลดไปมาไว้ไน 
 
 -C:/Program Files/Electronic Arts/The Sims 3/Mods/Packages
