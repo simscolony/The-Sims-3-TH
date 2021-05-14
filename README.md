@@ -6,8 +6,9 @@
 | DB font  | [Sims 3 MOD thai DB font](https://github.com/simcolony/TS3TH/releases/download/TS3TH-SB/Thai.Sims.3.Simcolony.DB.package) |
 | FrameworkSetup | [Resource file mods](https://github.com/simcolony/TS3TH/releases/download/TS3TH/Resource.cfg) |
 
-# ซื้อเกม [The sims 3](https://www.cdkeys.com/pc/games/the-sims-3-pc-mac-cd-key-origin?mw_aref=simscolony)
+## ซื้อเกม [The sims 3](https://www.cdkeys.com/pc/games/the-sims-3-pc-mac-cd-key-origin?mw_aref=simscolony)
 
+# การลงเกม
 1.ไห้นำไฟล์ Mod ภาษาไทย ที่เราโหลดไปมาไว้ไน 
 
   C:/Program Files/Electronic Arts/The Sims 3/Mods/Packages
@@ -17,7 +18,7 @@
 
 3.นำไฟล์ package ไปใส่ เข้าเกมได้
 
-
+# How to install
 his file contains everything you need to set up your game for custom content. Right-click on the download link below and choose 
 "Save link as." 
 
@@ -26,6 +27,7 @@ Inside the Documents\Electronic Arts\The Sims 3\Mods folder
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 # อัตราการแปล
+
 1.The Sims 3 ภาคหลัก : แปลไปแล้ว 75%
 
 2..The Sims 3 World Adventure: แปลไปแล้ว 30%
