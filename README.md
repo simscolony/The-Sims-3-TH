@@ -10,12 +10,11 @@
 
 1.ไห้นำไฟล์ Mod ภาษาไทย ที่เราโหลดไปมาไว้ไน 
 
--C:/Program Files/Electronic Arts/The Sims 3/Mods/Packages
-
--( Folder Mods สร้างเองเลย รวมถึง Folder Packages ด้วย )
+  C:/Program Files/Electronic Arts/The Sims 3/Mods/Packages
+  (หากไม่พบให้ทำการสร้าง Folder ชื่อ Mods >ข้างใน MOD สร้าง Folder ชื่อ Packages ด้วย )
 
 2.ไห้นำไฟล์ Resource ไปวางไว้ไนC:/Program Files/Electronic Arts/The Sims 3/Mods
-3.เสร็จสิ้นการลงPackage
+3.นำไฟล์ package ไปใส่ เข้าเกมได้
 
 
 his file contains everything you need to set up your game for custom content. Right-click on the download link below and choose 
@@ -27,29 +26,29 @@ Inside the Documents\Electronic Arts\The Sims 3\Mods folder
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 # อัตราการแปล
 
-The Sims 3 ภาคหลัก : แปลไปแล้ว 75%
+## The Sims 3 ภาคหลัก : แปลไปแล้ว 75%
 
-The Sims 3 World Adventure: แปลไปแล้ว 30%
+## The Sims 3 World Adventure: แปลไปแล้ว 30%
 
-The Sims 3 Ambition: แปลไปแล้ว 60%
+## The Sims 3 Ambition: แปลไปแล้ว 60%
 
-The Sims 3 Late night: แปลไปแล้ว 57%
+## The Sims 3 Late night: แปลไปแล้ว 57%
 
-The Sims 3 Generations: แปลไปแล้ว 60%
+## The Sims 3 Generations: แปลไปแล้ว 60%
 
-The Sims 3 Pets: แปลไปแล้ว 65%
+## The Sims 3 Pets: แปลไปแล้ว 65%
 
-The Sims 3 Showtime: แปลไปแล้ว 45%
+## The Sims 3 Showtime: แปลไปแล้ว 45%
 
-The Sims 3 Supernatural: แปลไปแล้ว 70%
+## The Sims 3 Supernatural: แปลไปแล้ว 70%
 
-The Sims 3 Seasons: แปลไปแล้ว 85%
+## The Sims 3 Seasons: แปลไปแล้ว 85%
 
-The Sims 3 University: แปลไปแล้ว 95%
+## The Sims 3 University: แปลไปแล้ว 95%
 
-The Sims 3 Island Paradise: แปลไปแล้ว 70%
+## The Sims 3 Island Paradise: แปลไปแล้ว 70%
 
-The Sims 3 Into the Future: แปลไปแล้ว 75%
+## The Sims 3 Into the Future: แปลไปแล้ว 75%
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 # TS3TH
