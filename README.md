@@ -26,42 +26,29 @@ his file contains everything you need to set up your game for custom content. Ri
 Save it into your Documents\Electronic Arts\The Sims 3\ folder (the same folder you just opened).
 Inside the Documents\Electronic Arts\The Sims 3\Mods folder
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 | ภาคที่รองรับ   | เปอร์เซ็นการแปล|
 | ------------- | ------------- |
-
 |1.The Sims 3 ภาคหลัก | 75%|
-|
-|2.The Sims 3 World Adventure|70%
-|
-|3.The Sims 3 Ambition| | 60%
-|
-4.The Sims 3 Late night: | 57%
-|
-5.The Sims 3 Generations: | 60%
-|
-6.The Sims 3 Pets: | 65%
-|
-7.The Sims 3 Showtime: | 45%
-|
-8.The Sims 3 Supernatural: | 70%
-|
-9.The Sims 3 Seasons: | 85%
-|
-10.The Sims 3 University: | 95%
-|
-11.The Sims 3 Island Paradise: | 70%
-|
-12.The Sims 3 Into the Future: | 75%
-|
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
+|2.The Sims 3 World Adventure|70%|
+|3.The Sims 3 Ambition|  60%|
+4.The Sims 3 Late night: | 57%|
+5.The Sims 3 Generations: | 60%|
+6.The Sims 3 Pets: | 65%|
+7.The Sims 3 Showtime: | 45%|
+8.The Sims 3 Supernatural: | 70%|
+9.The Sims 3 Seasons: | 85%|
+10.The Sims 3 University: | 95%|
+11.The Sims 3 Island Paradise: | 70%|
+12.The Sims 3 Into the Future: | 75%|
+
+
 # TS3TH
 How to install thesims3 mod thai
 
 Setup Folders & Files
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 # Game install files should be located here: (by default)
 --
 C:\Program Files (x86)\Origin Games\The Sims 4 (64-bit - Windows)
@@ -86,8 +73,10 @@ C:\Program Files\Electronic Arts\The Sims 4 (32-bit - Windows)
 
 ## Windows XP: 
 ### C:\Documents and Settings\<user name>\My Documents\Electronic Arts\The Sims 3\
+
 ## Windows Vista/7: 
 ### C:\Users\<username>\Documents\Electronic Arts\The Sims 3\
+
 ## Mac OS: 
 ### /Users/<username>/Documents/Electronic Arts/The Sims 3/
 -----------------------------------------------------------------
