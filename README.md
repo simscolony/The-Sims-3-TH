@@ -2,7 +2,7 @@
 
 | MOD  | Download |ข้อมูล|
 | ------------- | ------------- |------------- |
-| DB font  | [Sims 3 MOD thai DB font](https://github.com/simcolony/TS3TH/releases/download/TS3TH-SB/Thai.Sims.3.Simcolony.DB.package) |ไฟล์ MOD ไทย sims 3|
+| DB font  | [Sims 3 MOD thai DB font](https://github.com/simscolony/TS3TH/raw/master/Thai.Sims.3.Simcolony.DB2.package) |ไฟล์ MOD ไทย sims 3|
 | FrameworkSetup | [Resource file mods](https://github.com/simcolony/TS3TH/releases/download/TS3TH/Resource.cfg) |ไฟล์เพื่อการรันภาษา|
 
 ## ซื้อเกม [The sims 3](https://www.cdkeys.com/pc/games/the-sims-3-pc-mac-cd-key-origin?mw_aref=simscolony)
