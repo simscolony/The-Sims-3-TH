@@ -19,6 +19,7 @@
 
 3.นำไฟล์ package ไปใส่ เข้าเกมได้
 
+---------------------------------------------------------
 # How to install
 his file contains everything you need to set up your game for custom content. Right-click on the download link below and choose 
 "Save link as." 
@@ -42,7 +43,7 @@ Inside the Documents\Electronic Arts\The Sims 3\Mods folder
 11.The Sims 3 Island Paradise: | 70%|
 12.The Sims 3 Into the Future: | 75%|
 
-
+-----------------------------------------
 # TS3TH
 How to install thesims3 mod thai
 
@@ -70,13 +71,16 @@ C:\Program Files\Electronic Arts\The Sims 4 (32-bit - Windows)
 
 --------------------------------------------------------------------
 # Go to The Sims 3 Folder in My Documents: NOT in Program Files!
-
-## Windows XP: 
-### C:\Documents and Settings\<user name>\My Documents\Electronic Arts\The Sims 3\
+## Windows 10/11: 
+### C:\Users\<username>\Documents\Electronic Arts\The Sims 3\
 
 ## Windows Vista/7: 
 ### C:\Users\<username>\Documents\Electronic Arts\The Sims 3\
 
 ## Mac OS: 
 ### /Users/<username>/Documents/Electronic Arts/The Sims 3/
+  
+  ## Windows XP: 
+### C:\Documents and Settings\<user name>\My Documents\Electronic Arts\The Sims 3\
+
 -----------------------------------------------------------------
