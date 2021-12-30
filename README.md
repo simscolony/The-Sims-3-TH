@@ -49,35 +49,19 @@ How to install thesims3 mod thai
 
 Setup Folders & Files
 
-
-# Game install files should be located here: (by default)
+# Game install files: (Origin)
 --
 C:\Program Files (x86)\Origin Games\The Sims 4 (64-bit - Windows)
 
 C:\Program Files\Origin Games\The Sims 4 (32-bit - Windows)
 
-
-# Digital Download Version
-
-C:\Program Files (x86)\Origin Games\The Sims 3 (64-bit - Windows)
-
-C:\Program Files\Origin Games\The Sims 3 (32-bit - Windows)
-
-# The Original Disc Version - pre 2012 version
-
-C:\Program Files (x86)\Electronic Arts\The Sims 3 (64-bit - Windows)
-
-C:\Program Files\Electronic Arts\The Sims 4 (32-bit - Windows)
-
 --------------------------------------------------------------------
 # Go to The Sims 3 Folder in My Documents: NOT in Program Files!
-## Windows 10/11: 
+## Windows Vista/7-10/11: 
 ### C:\Users\<username>\Documents\Electronic Arts\The Sims 3\
 
-## Windows Vista/7: 
-### C:\Users\<username>\Documents\Electronic Arts\The Sims 3\
 
-## Mac OS: 
+## Mac OS All verion: 
 ### /Users/<username>/Documents/Electronic Arts/The Sims 3/
   
   ## Windows XP: 
