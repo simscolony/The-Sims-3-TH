@@ -10,14 +10,16 @@
 # การลงเกม
 1.ไห้นำไฟล์ Mod ภาษาไทย ที่เราโหลดไปมาไว้ไน 
 
-  C:/Program Files/Electronic Arts/The Sims 3/Mods/Packages
+>>  C:/Program Files/Electronic Arts/The Sims 3/Mods/Packages
+
+  
   (หากไม่พบให้ทำการสร้าง Folder ชื่อ Mods >ข้างใน MOD สร้าง Folder ชื่อ Packages ด้วย )
   
  ![SIMS3](https://imgur.com/bguCvTU.jpg)
 
 2.ไห้นำไฟล์ Resource ไปวางไว้ไนC:/Program Files/Electronic Arts/The Sims 3/Mods
 
-3.นำไฟล์ package ไปใส่ เข้าเกมได้
+3.นำไฟล์ package ไปใส่ใน Floder ทั้งหมดแล้วเข้าเกมได้
 
 ---------------------------------------------------------
 # How to install
