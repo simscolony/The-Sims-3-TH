@@ -1,3 +1,4 @@
+![SIMS3](https://cdn.cloudflare.steamstatic.com/steam/apps/223591/capsule_616x353.jpg)
 # ดาวโหลด MOD แปลไทย The sims 3
 
 | MOD  | Download |ข้อมูล|
