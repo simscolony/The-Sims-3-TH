@@ -3,9 +3,9 @@
 
 | MOD  | Download |ข้อมูล|
 | ------------- | ------------- |------------- |
-| TH Sarabun font  | [Sims 3 MOD thai Thsarabun font]([https://github.com/simscolony/TS3TH/raw/master/Thai.Sims.3.Simcolony.DB2.package](https://github.com/simscolony/TS3TH/raw/master/THE.SIMS.3.1.63.rar)) |ไฟล์ MOD ไทย sims 3 font ไทยสารบัน (มีหัว)|
+| TH Sarabun font  | [Sims 3 MOD thai Thsarabun font](https://github.com/simscolony/TS3TH/raw/master/THE.SIMS.3.1.63.rar) |ไฟล์ MOD ไทย sims 3 font ไทยสารบัญ (มีหัว)|
 | DB font  | [Sims 3 MOD thai DB font](https://github.com/simscolony/TS3TH/raw/master/Thai.Sims.3.Simcolony.DB2.package) |ไฟล์ MOD ไทย sims 3 DB(ไร้หัว)|
-| FrameworkSetup | [Resource file mods](https://github.com/simcolony/TS3TH/releases/download/TS3TH/Resource.cfg) |ไฟล์เพื่อการรันภาษา|
+| FrameworkSetup | [Resource file mods](https://github.com/simcolony/TS3TH/releases/download/TS3TH/Resource.cfg) |ไฟล์เพื่อการรัน MOD|
 
 ## ซื้อเกม [The sims 3](https://www.cdkeys.com/pc/games/the-sims-3-pc-mac-cd-key-origin?mw_aref=simscolony)
 
