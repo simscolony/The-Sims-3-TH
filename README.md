@@ -65,11 +65,10 @@ C:\Program Files\Origin Games\The Sims 4 (32-bit - Windows)
 ## Windows Vista/7-10/11: 
 ### C:\Users\<username>\Documents\Electronic Arts\The Sims 3\
 
+## Windows XP: 
+### C:\Documents and Settings\<user name>\My Documents\Electronic Arts\The Sims 3\
 
 ## Mac OS All verion: 
 ### /Users/<username>/Documents/Electronic Arts/The Sims 3/
-  
-  ## Windows XP: 
-### C:\Documents and Settings\<user name>\My Documents\Electronic Arts\The Sims 3\
 
 -----------------------------------------------------------------
