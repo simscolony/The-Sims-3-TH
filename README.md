@@ -12,15 +12,24 @@
 # การลงไฟล์
 1.ไห้นำไฟล์ Mod ภาษาไทย ที่เราโหลดไปมาไว้ไน 
 
+สำหรับแบบแผ่น
 >C:/Program Files/Electronic Arts/The Sims 3/Mods/Packages
 
-  
+สำหรับ Origin
+>C:\Program Files (x86)\Origin Games\The Sims 3\Mods\Packages
+
+สำหรับ EA App
+>C:\Program Files (x86)\EA APP\The Sims 3\Mods\Packages
+
   (หากไม่พบให้ทำการสร้าง Folder ชื่อ Mods >ข้างใน MOD สร้าง Folder ชื่อ Packages ด้วย )
   
  ![SIMS3](https://imgur.com/bguCvTU.jpg)
 
-2.ไห้นำไฟล์ Resource ไปวางไว้ไน
->C:/Program Files/Electronic Arts/The Sims 3/Mods
+![บันทึกแบบเต็มหน้าจอ 20 มิ ย  2566 202251 bmp](https://github.com/simscolony/TS3TH/assets/13219372/3ae9f4f0-ce24-4d62-90f0-e42390a1ae61)
+
+2.หากไม่มีไฟล์ Resource ให้นำไปวางไว้ไน Packages
+
+![บันทึกแบบเต็มหน้าจอ 20 มิ ย  2566 202419 bmp](https://github.com/simscolony/TS3TH/assets/13219372/469459be-b511-45e8-9b31-bc931ec5ab31)
 
 3.นำไฟล์ package ไปใส่ใน Floder ทั้งหมดแล้วเข้าเกมได้
 
