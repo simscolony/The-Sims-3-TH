@@ -12,16 +12,11 @@
 # การลงไฟล์
 1.ไห้นำไฟล์ Mod ภาษาไทย ที่เราโหลดไปมาไว้ไน 
 
-สำหรับแบบแผ่น
->C:/Program Files/Electronic Arts/The Sims 3/Mods/Packages
-
-สำหรับ Origin
->C:\Program Files (x86)\Origin Games\The Sims 3\Mods\Packages
-
-สำหรับ EA App
->C:\Program Files\EA Games\The Sims 3\Mods\Packages
+>C:\Users\<username>\Documents\Electronic Arts\The Sims 3\Mods\Packages
 
   (หากไม่พบให้ทำการสร้าง Folder ชื่อ Mods >ข้างใน MOD สร้าง Folder ชื่อ Packages ด้วย )
+
+  วิธีการลง https://www.carls-sims-4-guide.com/forum/index.php?topic=9187.msg185282#msg185282
   
  ![SIMS3](https://imgur.com/bguCvTU.jpg)
 
