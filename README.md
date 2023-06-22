@@ -19,7 +19,7 @@
 >C:\Program Files (x86)\Origin Games\The Sims 3\Mods\Packages
 
 สำหรับ EA App
->C:\Program Files (x86)\EA APP\The Sims 3\Mods\Packages
+>C:\Program Files\EA Games\The Sims 3\Mods\Packages
 
   (หากไม่พบให้ทำการสร้าง Folder ชื่อ Mods >ข้างใน MOD สร้าง Folder ชื่อ Packages ด้วย )
   
