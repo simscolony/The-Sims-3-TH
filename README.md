@@ -42,13 +42,7 @@
 3.นำไฟล์ package ไปใส่ใน Floder ทั้งหมดแล้วเข้าเกมได้
 
 ---------------------------------------------------------
-# How to install
-his file contains everything you need to set up your game for custom content. Right-click on the download link below and choose 
-"Save link as." 
-
-Save it into your Documents\Electronic Arts\The Sims 3\ folder (the same folder you just opened).
-Inside the Documents\Electronic Arts\The Sims 3\Mods folder
-
+# การแปล
 
 | ภาคที่รองรับ   | เปอร์เซ็นการแปล|
 | ------------- | ------------- |
@@ -64,20 +58,15 @@ Inside the Documents\Electronic Arts\The Sims 3\Mods folder
 |10.The Sims 3 University: | 95%|
 |11.The Sims 3 Island Paradise: | 70%|
 |12.The Sims 3 Into the Future: | 75%|
+|13.The Sims™ 3 High-End Loft Stuff: | 75%|
+|14.The Sims™ 3 Fast Lane Stuffe: | 75%|
+|15.The Sims™ 3 Outdoor Living Stuff: | 75%|
+|16.The Sims™ 3 Town Life Stuff: | 75%|
+|17.The Sims™ 3 Master Suite Stuff: | 75%|
+|18.The Sims 3: Diesel Stuff: | 75%|
+|19.The Sims 3 70's, 80's and 90's: | 75%|
+|20.The Sims 3 - Movie Stuff: | 75%|
 
-
-
------------------------------------------
-# TS3TH
-How to install thesims3 mod thai
-
-Setup Folders & Files
-
-# Game install files: (Origin)
---
-C:\Program Files (x86)\Origin Games\The Sims 4 (64-bit - Windows)
-
-C:\Program Files\Origin Games\The Sims 4 (32-bit - Windows)
 
 --------------------------------------------------------------------
 # Go to The Sims 3 Folder in My Documents: NOT in Program Files!
