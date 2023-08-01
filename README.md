@@ -7,10 +7,10 @@
 | DB font  | [Sims 3 MOD thai DB font](https://github.com/simscolony/TS3TH/raw/master/Thai.Sims.3.Simcolony.DB2.package) |ไฟล์ MOD ไทย sims 3 DB(ไร้หัว)|
 | FrameworkSetup | [Resource file mods](https://github.com/simcolony/TS3TH/releases/download/TS3TH/Resource.cfg) |ไฟล์เพื่อการรัน MOD|
 
-สนับสนุนได้ทาง 
-[patreon](https://www.patreon.com/simscolony)
-[KO-FI](https://ko-fi.com/simscolony/shop)
-[gumroad](https://simscolony.gumroad.com/))
+# สนับสนุนได้ทาง 
+1.[patreon](https://www.patreon.com/simscolony)
+2.[KO-FI](https://ko-fi.com/simscolony/shop)
+3.[gumroad](https://simscolony.gumroad.com/))
 
 https://ko-fi.com/simscolony/shop
 
