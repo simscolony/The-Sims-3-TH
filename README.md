@@ -1,4 +1,4 @@
-![image](https://github.com/simscolony/The-sims-3---TH/assets/13219372/c364d2bc-de55-4846-8cc3-5f4749960380)![SIMS3](https://cdn.cloudflare.steamstatic.com/steam/apps/223591/capsule_616x353.jpg)
+![SIMS3](https://cdn.cloudflare.steamstatic.com/steam/apps/223591/capsule_616x353.jpg)
 # ดาวโหลด MOD แปลไทย The sims 3
 
 | MOD  | Download |ข้อมูล|
