@@ -1,4 +1,4 @@
-![SIMS3](https://cdn.cloudflare.steamstatic.com/steam/apps/223591/capsule_616x353.jpg)
+![image](https://github.com/simscolony/The-sims-3---TH/assets/13219372/c364d2bc-de55-4846-8cc3-5f4749960380)![SIMS3](https://cdn.cloudflare.steamstatic.com/steam/apps/223591/capsule_616x353.jpg)
 # ดาวโหลด MOD แปลไทย The sims 3
 
 | MOD  | Download |ข้อมูล|
@@ -7,13 +7,18 @@
 | DB font  | [Sims 3 MOD thai DB font](https://github.com/simscolony/TS3TH/raw/master/Thai.Sims.3.Simcolony.DB2.package) |ไฟล์ MOD ไทย sims 3 DB(ไร้หัว)|
 | FrameworkSetup | [Resource file mods](https://github.com/simcolony/TS3TH/releases/download/TS3TH/Resource.cfg) |ไฟล์เพื่อการรัน MOD|
 
-# สนับสนุนได้ทาง 
+# Font ใหม่สนับสนุนได้ทาง 
 
 1.[patreon](https://www.patreon.com/simscolony)
 
 2.[KO-FI](https://ko-fi.com/simscolony/shop)
 
 3.[gumroad](https://simscolony.gumroad.com/)
+
+![SIMS3](https://images2.imgbox.com/e4/aa/ONq4YpEW_o.jpg)
+![SIMS3](https://images2.imgbox.com/63/c5/WrF3iG0s_o.jpg)
+
+
 
 ## ซื้อเกม [The sims 3](https://www.cdkeys.com/pc/games/the-sims-3-pc-mac-cd-key-origin?mw_aref=simscolony)
 
