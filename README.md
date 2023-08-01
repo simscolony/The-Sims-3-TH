@@ -8,8 +8,11 @@
 | FrameworkSetup | [Resource file mods](https://github.com/simcolony/TS3TH/releases/download/TS3TH/Resource.cfg) |ไฟล์เพื่อการรัน MOD|
 
 # สนับสนุนได้ทาง 
+
 1.[patreon](https://www.patreon.com/simscolony)
+
 2.[KO-FI](https://ko-fi.com/simscolony/shop)
+
 3.[gumroad](https://simscolony.gumroad.com/))
 
 https://ko-fi.com/simscolony/shop
