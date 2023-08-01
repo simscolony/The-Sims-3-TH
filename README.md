@@ -13,9 +13,7 @@
 
 2.[KO-FI](https://ko-fi.com/simscolony/shop)
 
-3.[gumroad](https://simscolony.gumroad.com/))
-
-https://ko-fi.com/simscolony/shop
+3.[gumroad](https://simscolony.gumroad.com/)
 
 ## ซื้อเกม [The sims 3](https://www.cdkeys.com/pc/games/the-sims-3-pc-mac-cd-key-origin?mw_aref=simscolony)
 
