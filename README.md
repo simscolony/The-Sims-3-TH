@@ -3,8 +3,8 @@
 
 | MOD  | Download |ข้อมูล|
 | ------------- | ------------- |------------- |
-| TH Sarabun font  | [Sims 3 MOD thai Thsarabun font](https://github.com/simscolony/TS3TH/raw/master/THE.SIMS.3.1.63.rar) |ไฟล์ MOD ไทย sims 3 font ไทยสารบัญ (มีหัว)|
-| DB font  | [Sims 3 MOD thai DB font](https://github.com/simscolony/TS3TH/raw/master/Thai.Sims.3.Simcolony.DB2.package) |ไฟล์ MOD ไทย sims 3 DB(ไร้หัว)|
+| TH Sarabun font  | [Sims 3 MOD thai Thsarabun font](https://github.com/simscolony/The-Sims-3-TH/blob/master/%5BSIMSCOLONY%5D%20THE%20SIMS%20%20THAI%20DEMO%20%5BRSU%5D.package) |ไฟล์ MOD ไทย sims 3 font ไทยสารบัญ (มีหัว)|
+| RSU font  | [Sims 3 MOD thai DB font](https://github.com/simscolony/The-Sims-3-TH/blob/master/%5BSIMSCOLONY%5D%20THE%20SIMS%20%20THAI%20DEMO%20%5BSARABUN%5D.package) |ไฟล์ MOD ไทย sims 3 RSU(ไร้หัว)|
 | FrameworkSetup | [Resource file mods](https://github.com/simcolony/TS3TH/releases/download/TS3TH/Resource.cfg) |ไฟล์เพื่อการรัน MOD|
 
 # Font ใหม่สนับสนุนได้ทาง 
@@ -64,6 +64,8 @@ Inside the Documents\Electronic Arts\The Sims 3\Mods folder
 |10.The Sims 3 University: | 95%|
 |11.The Sims 3 Island Paradise: | 70%|
 |12.The Sims 3 Into the Future: | 75%|
+
+
 
 -----------------------------------------
 # TS3TH
