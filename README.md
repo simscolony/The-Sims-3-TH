@@ -11,9 +11,7 @@
 
 1.[patreon](https://www.patreon.com/simscolony)
 
-2.[KO-FI](https://ko-fi.com/simscolony/shop)
-
-3.[gumroad](https://simscolony.gumroad.com/)
+2.[gumroad](https://simscolony.gumroad.com/)
 
 ![SIMS3](https://images2.imgbox.com/e4/aa/ONq4YpEW_o.jpg)
 ![SIMS3](https://images2.imgbox.com/63/c5/WrF3iG0s_o.jpg)
